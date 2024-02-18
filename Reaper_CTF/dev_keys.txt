@@ -1,0 +1,7 @@
+Development Keys:
+
+100-FE9A1-500-A270-0102-U3RhbmRhcmQgTGljZW5zZQ==
+101-FE9A1-550-A271-0109-UHJlbWl1bSBMaWNlbnNl
+102-FE9A1-500-A272-0106-UHJlbWl1bSBMaWNlbnNl
+
+The dev keys can not be activated yet, we are working on fixing a bug in the activation function.
